@@ -13,3 +13,5 @@ print(arr)
 
 uniques, index_unq = np.unique(np.sort(np.abs(arr)), return_index=True, axis=0)
 print(arr[index_unq])
+
+print("Solo queria practicar")
